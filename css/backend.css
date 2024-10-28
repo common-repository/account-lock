@@ -1,0 +1,22 @@
+.user-account-status,
+.row-actions .lock a,
+.row-actions .unlock a {
+  background-position: left center;
+  background-repeat: no-repeat;
+  display: inline-block;
+  padding-left: 20px;
+  height: 20px;
+  line-height: 20px;
+}
+
+.user-account-status.unlocked,
+.row-actions .unlock a {
+  color: green;
+  background-image: url('../images/unlocked.png');
+}
+
+.user-account-status.locked,
+.row-actions .lock a {
+  color: red;
+  background-image: url('../images/locked.png');
+}

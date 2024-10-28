@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Account Lock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-05 07:54+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dennis Hoppe <mail@DennisHoppe.de>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t;t:2c,1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-plugin-account-lock.php:110
+msgid "Lock User Account"
+msgstr ""
+
+#: ../wp-plugin-account-lock.php:113
+#: ../wp-plugin-account-lock.php:138
+msgid "Account status"
+msgstr ""
+
+#: ../wp-plugin-account-lock.php:116
+#: ../wp-plugin-account-lock.php:150
+msgid "Unlocked"
+msgstr ""
+
+#: ../wp-plugin-account-lock.php:117
+#: ../wp-plugin-account-lock.php:145
+msgid "Locked"
+msgstr ""
+
+#: ../wp-plugin-account-lock.php:147
+msgid "Unlock"
+msgstr ""
+
+#: ../wp-plugin-account-lock.php:152
+msgid "Lock"
+msgstr ""
+
+#: ../wp-plugin-account-lock.php:160
+msgid "Error:"
+msgstr ""
+
+#: ../wp-plugin-account-lock.php:160
+msgid "Your account is locked."
+msgstr ""
+
+#: ../wp-plugin-account-lock.php:188
+msgid "Please notice:"
+msgstr ""
+
+#: ../wp-plugin-account-lock.php:189
+msgid "In the Lite Version all accounts will be unlocked daily."
+msgstr ""
+
+#: ../wp-plugin-account-lock.php:190
+msgid "Why not switching to <a href=\"http://dennishoppe.de/en/wordpress-plugins/account-lock\" target=\"_blank\">Account Lock Pro</a>? :)"
+msgstr ""
+
